@@ -16,7 +16,7 @@ $ ./mandelbrot
 ## Clean
 ```
 $ make clean 
-rm -rf *.o mandelbrot
+rm -f mandelbrot
 ```
 
 ## Example result
